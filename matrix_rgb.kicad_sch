@@ -8437,7 +8437,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 508.508 122.174 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8f11f2b5-4f4f-49f6-9bec-b1f3e13bd93a)
     (property "Reference" "S1" (at 514.223 121.1385 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10584,7 +10584,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 508.508 129.032 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea8c356e-9b09-4fad-a8cb-24668a8c523a)
     (property "Reference" "S2" (at 514.223 127.9965 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10634,7 +10634,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 508.508 136.906 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec547439-e2b6-4fc3-85b5-ada827b9c449)
     (property "Reference" "S3" (at 514.35 135.5089 0)
       (effects (font (size 1.27 1.27)) (justify left))
